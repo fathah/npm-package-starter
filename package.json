@@ -1,0 +1,17 @@
+{
+  "name": "Package Name",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/index.ts",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cartex",
+    "ziqx"
+  ],
+  "author": "Ziqx",
+  "license": "ISC"
+}
