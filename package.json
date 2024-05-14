@@ -1,13 +1,13 @@
 {
-  "name": "ziqx",
-  "version": "0.0.3",
+  "name": "packagename",
+  "version": "0.0.1",
   "description": "",
   "main": "./dist/index.ts",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "homepage": "ziqx.cc",
   "repository": {
-    "url": "https://github.com/ziqx/ziqx.js"
+    "url": "https://github.com/fathah/npm-package-starter"
   },
   "scripts": {
     "build": "tsup"
