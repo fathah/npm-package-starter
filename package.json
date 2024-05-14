@@ -1,22 +1,26 @@
 {
-  "name": "packagename",
-  "version": "0.0.1",
+  "name": "ziqx",
+  "version": "0.0.3",
   "description": "",
   "main": "./dist/index.ts",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "homepage": "ziqx.cc",
   "repository": {
-    "url": "https://github.com/fathah/npm-package-starter"
+    "url": "https://github.com/ziqx/ziqx.js"
   },
-  
   "scripts": {
-    "build": "tsup" 
+    "build": "tsup"
   },
   "keywords": [
-    "cartex",
-    "ziqx"
+    "ziqx",
+    "ziqx auth",
+    "ziqx.js"
   ],
   "author": "Ziqx",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
 }
