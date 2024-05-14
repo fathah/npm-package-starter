@@ -1,19 +1,11 @@
-# Ziqx.js
-All in one package to manage your [Ziqx](https://ziqx.cc) services
+# NPM Package Starter
 
-## Docs
-Checkout the Documentation for more information
-**[Ziqx Docs ⇗](https://ziqx.cc)**
+# Clone the repo
+```
+git clone https://github.com/fathah/npm-package-starter.git
+```
 
-## Ziqx Auth
-```javascript
-
-const auth = new ZiqxAuth();
-
-//Login
-auth.login("APP_ID"); // Acquire app ID from Ziqx Developer Console
-
-//Validate Ziqx Token
-const isTokenValid:boolean = await auth.validate("TOKEN");
-
+# Install Typescript
+```
+npm i -D typescript tsup
 ```
